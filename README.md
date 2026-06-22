@@ -124,15 +124,37 @@ Besides software development, I also work on graphic design and digital art proj
 
 ---
 
-## Connect With Me
+## 📫 Connect With Me
 
-📧 [christianjccahilig@gmail.com](mailto:christianjccahilig@gmail.com)
+<div align="center">
 
-🌐 Portfolio: https://christianj-cc.github.io
+<a href="mailto:christianjccahilig@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Email"/>
+</a>
 
-💻 GitHub: https://github.com/christianj-cc
+&nbsp;&nbsp;
+
+<a href="https://github.com/christianj-cc">
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.facebook.com/christianjames.cahilig">
+  <img src="https://img.shields.io/badge/Messenger-0084FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://christianj-cc.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-b31a00?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"/>
+</a>
+
+<br><br>
 
 📍 Davao City, Philippines
+
+</div>
 
 ---
 
