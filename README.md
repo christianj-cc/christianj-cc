@@ -124,7 +124,7 @@ Besides software development, I also work on graphic design and digital art proj
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
 
