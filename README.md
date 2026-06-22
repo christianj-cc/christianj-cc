@@ -126,18 +126,18 @@ Besides software development, I also work on graphic design and digital art proj
 
 ## 📫 Connect With Me
 
-<div align="center" style="gap: 1rem;">
+<div align="center" style="gap: 20px;">
 
 <a href="mailto:christianjccahilig@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://github.com/christianj-cc">
-  <img src="https://skillicons.dev/icons?i=github" />
+<a href="https://www.facebook.com/christianjames.cahilig">
+  <img src="https://cdn.simpleicons.org/files/0084FF" height="48" />
 </a>
 
-<a href="https://www.facebook.com/christianjames.cahilig">
-  <img src="https://cdn.simpleicons.org/messenger/0084FF" height="48" />
+<a href="https://christianj-cc.github.io">
+  <img src="https://cdn.simpleicons.org/firefoxbrowser/b31a00" height="48" />
 </a>
 
 <br><br>
