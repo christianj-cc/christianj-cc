@@ -120,6 +120,8 @@ Physics-based arcade game built in Godot featuring realistic projectile mechanic
 
 Besides software development, I also work on graphic design and digital art projects. I enjoy combining creativity with technology and designing experiences that are both functional and visually engaging.
 
+🎨 Design Portfolio: https://artnodes.wixsite.com/christiancahilig
+
 ---
 
 ## Connect With Me
