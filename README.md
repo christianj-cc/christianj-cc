@@ -126,23 +126,33 @@ Besides software development, I also work on graphic design and digital art proj
 
 ## 📫 Connect With Me
 
-<div align="center" style="gap: 20px;">
+<div align="center">
 
 <a href="mailto:christianjccahilig@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
+  <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Email"/>
 </a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/christianj-cc">
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
+</a>
+
+&nbsp;&nbsp;
 
 <a href="https://www.facebook.com/christianjames.cahilig">
-  <img src="https://cdn.simpleicons.org/files/0084FF" height="48" />
+  <img src="https://img.shields.io/badge/Messenger-0084FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://christianj-cc.github.io">
-  <img src="https://cdn.simpleicons.org/firefoxbrowser/b31a00" height="48" />
+  <img src="https://img.shields.io/badge/Portfolio-b31a00?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br><br>
 
-**Davao City, Philippines 🇵🇭**
+📍 Davao City, Philippines
 
 </div>
 
