@@ -126,7 +126,7 @@ Besides software development, I also work on graphic design and digital art proj
 
 ## 📫 Connect With Me
 
-<div align="center">
+<div align="center" style="gap: 1rem;">
 
 <a href="mailto:christianjccahilig@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
@@ -138,10 +138,6 @@ Besides software development, I also work on graphic design and digital art proj
 
 <a href="https://www.facebook.com/christianjames.cahilig">
   <img src="https://cdn.simpleicons.org/messenger/0084FF" height="48" />
-</a>
-
-<a href="https://christianj-cc.github.io">
-  <img src="https://cdn.simpleicons.org/firefoxbrowser/b31a00" height="48" />
 </a>
 
 <br><br>
