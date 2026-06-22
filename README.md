@@ -1,73 +1,141 @@
-# Hi, I'm Christian Cahilig 👋
+<div align="center">
 
-Computer Science student passionate about software development, machine learning, cybersecurity, and building practical solutions to real-world problems.
+# Hi, I'm Christian Cahilig
+
+### Computer Science Student • Software Developer • AI & Cybersecurity Enthusiast
+
+Building practical software solutions, exploring machine learning, and continuously learning new technologies.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-b31a00?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)](https://christianj-cc.github.io)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-b31a00?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:christianjccahilig@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-christianj--cc-181717?style=for-the-badge\&logo=github)](https://github.com/christianj-cc)
+
+</div>
+
+---
 
 ## About Me
 
-* 🎓 BS Computer Science Student at the University of Mindanao
-* 💻 Interested in Software Engineering, Machine Learning, Cybersecurity, and Data Analytics
-* 🌱 Currently improving my skills in Laravel, Python, Java, and modern web development
-* 🔍 Seeking internship and OJT opportunities in technology-related fields
-* 🎨 Graphic Designer and Digital Artist alongside software development
+🎓 BS Computer Science Student at the University of Mindanao
+
+💻 Interested in:
+
+* Software Engineering
+* Machine Learning & AI
+* Cybersecurity
+* Data Analytics
+* Web Development
+
+🌱 Currently learning advanced software architecture, machine learning workflows, and modern web development.
+
+🔍 Seeking internship and OJT opportunities where I can contribute, learn, and grow as a developer.
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,python,java,js,html,css,mysql" />
+</p>
+
+### Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=laravel" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### Machine Learning
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC1C24?style=for-the-badge\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+
+### Game Development
+
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge\&logo=godot-engine\&logoColor=white)
+
+---
 
 ## Featured Projects
 
 ### Leo Revita Management System
 
-A Laravel-based Hair Salon Management System featuring appointment scheduling, customer management, inventory tracking, employee management, and sales reporting.
+Laravel-based Hair Salon Management System featuring:
 
-**Tech Stack:** Laravel, PHP, MySQL, JavaScript, HTML, CSS
+* Appointment Scheduling
+* Customer Management
+* Inventory Tracking
+* Employee Management
+* Sales Reporting
+
+**Stack:** Laravel • PHP • MySQL • JavaScript
 
 ---
 
 ### Email & SMS Phishing Detection
 
-Machine learning-powered phishing detection system using Scikit-learn and XGBoost with separate pipelines for Email and SMS classification.
+Machine learning-powered phishing detection application utilizing separate Email and SMS pipelines with traditional ML and XGBoost models.
 
-**Tech Stack:** Python, Scikit-learn, XGBoost, Pandas
+**Stack:** Python • Scikit-Learn • XGBoost • Pandas
 
 ---
 
 ### IrisHR
 
-A Human Resource Management System with employee management, attendance monitoring, payroll features, and security enhancements.
+Human Resource Management System with employee management, payroll functionality, attendance tracking, and security enhancements.
 
-**Tech Stack:** PHP, MySQL, JavaScript, HTML, CSS
+**Stack:** PHP • MySQL • JavaScript
 
 ---
 
 ### Tumba Lata
 
-A physics-based arcade game built in Godot featuring realistic projectile mechanics, scoring systems, and level progression.
+Physics-based arcade game built in Godot featuring realistic projectile mechanics, scoring systems, and progression mechanics.
 
-**Tech Stack:** Godot Engine, GDScript
-
-## Technologies
-
-**Languages**
-
-* PHP
-* Python
-* Java
-* JavaScript
-* SQL
-
-**Frameworks & Tools**
-
-* Laravel
-* MySQL
-* Git & GitHub
-* Scikit-learn
-* XGBoost
-* Godot Engine
-
-## Connect With Me
-
-* Portfolio: https://christianj-cc.github.io
-* GitHub: https://github.com/christianj-cc
-* Email: [christianjccahilig@gmail.com](mailto:christianjccahilig@gmail.com)
-* Facebook: https://www.facebook.com/christianjames.cahilig
+**Stack:** Godot • GDScript
 
 ---
 
-*"Building technology that solves problems while continuously learning and improving."*
+## GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=christianj-cc&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianj-cc&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+---
+
+## Beyond Programming
+
+Besides software development, I also work on graphic design and digital art projects. I enjoy combining creativity with technology and designing experiences that are both functional and visually engaging.
+
+---
+
+## Connect With Me
+
+📧 [christianjccahilig@gmail.com](mailto:christianjccahilig@gmail.com)
+
+🌐 Portfolio: https://christianj-cc.github.io
+
+💻 GitHub: https://github.com/christianj-cc
+
+📍 Davao City, Philippines
+
+---
+
+<div align="center">
+
+*"Building solutions that are practical, reliable, and meaningful."*
+
+</div>
