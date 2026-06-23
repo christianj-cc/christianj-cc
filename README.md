@@ -58,6 +58,15 @@ I'm a Computer Science student and software developer with experience in web dev
 
 ---
 
+## Certifications & Standards
+
+* IT Specialist in Network Security | Certiport
+* IT Specialist in Databases | Certiport
+* IT Specialist in Java | Certiport 
+* Software Quality Assurance (SQA): Trained in modern testing lifecycle standards.
+
+---
+
 ## Featured Project
 
 ### <a href="https://github.com/christianj-cc/Hair-Salon-MS" target="_blank">Leo Revita Management System</a>
