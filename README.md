@@ -40,16 +40,10 @@ I'm a Computer Science student and software developer with experience in web dev
 <img src="https://skillicons.dev/icons?i=php,python,java,js,html,css,mysql" />
 </p>
 
-### Frameworks & Libraries
+### Frameworks, Tools, & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=laravel" />
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=laravel,git,github,vscode" />
 </p>
 
 ### Machine Learning
