@@ -58,29 +58,13 @@ I'm a Computer Science student and software developer with experience in web dev
 
 ---
 
-## Featured Projects
+## Featured Project
 
-### Leo Revita Management System
+### <a href="https://github.com/christianj-cc/Hair-Salon-MS" target="_blank">Leo Revita Management System</a>
 
 Laravel-based Hair Salon Management System featuring appointment scheduling, customer management, inventory tracking, employee management, sales reporting,and audit logs.
 
 **Stack:** Laravel • PHP • MySQL • JavaScript
-
----
-
-### Email & SMS Phishing Detection
-
-Machine learning-powered phishing detection application utilizing separate Email and SMS pipelines with traditional ML and XGBoost models.
-
-**Stack:** Python • Scikit-Learn • XGBoost • Pandas
-
----
-
-### Tumba Lata
-
-Physics-based arcade game built in Godot featuring realistic projectile mechanics, scoring systems, and progression mechanics.
-
-**Stack:** Godot • GDScript
 
 ---
 
