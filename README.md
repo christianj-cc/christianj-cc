@@ -4,7 +4,7 @@
 
 ### Computer Science Student • Software Developer • AI & Cybersecurity Enthusiast
 
-Building practical software solutions, exploring machine learning, and continuously learning new technologies.
+I'm a Computer Science student and software developer with experience in web development, machine learning, cybersecurity, and game development.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-b31a00?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)](https://christianj-cc.github.io)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-b31a00?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:christianjccahilig@gmail.com)
@@ -110,39 +110,10 @@ Besides software development, I also work on graphic design and digital art proj
 
 ---
 
-## Connect With Me
-
-<div align="center">
-
-<a href="mailto:christianjccahilig@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://github.com/christianj-cc">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://www.facebook.com/christianjames.cahilig">
-  <img src="https://cdn.simpleicons.org/messenger/0084FF" height="48" />
-</a>
-
-<a href="https://christianj-cc.github.io">
-  <img src="https://cdn.simpleicons.org/firefoxbrowser/b31a00" height="48" />
-</a>
-
-<br><br>
-
-**Davao City, Philippines 🇵🇭**
-
-</div>
-
 ## Connect With Me 
 
 
-<a href="mailto:christianjccahilig@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a> 
-  Email: [christianjccahilig@gmail.com](mailto:christianjccahilig@gmail.com) 
+📧 Email: [christianjccahilig@gmail.com](mailto:christianjccahilig@gmail.com) 
 
 🌐 Portfolio: https://christianj-cc.github.io 
 
