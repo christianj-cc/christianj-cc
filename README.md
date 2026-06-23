@@ -139,7 +139,10 @@ Besides software development, I also work on graphic design and digital art proj
 ## Connect With Me 
 
 
-📧 Email: [christianjccahilig@gmail.com](mailto:christianjccahilig@gmail.com) 
+<a href="mailto:christianjccahilig@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+  Email: [christianjccahilig@gmail.com](mailto:christianjccahilig@gmail.com) 
+</a> 
 
 🌐 Portfolio: https://christianj-cc.github.io 
 
