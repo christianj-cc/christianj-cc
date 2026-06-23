@@ -138,10 +138,15 @@ Besides software development, I also work on graphic design and digital art proj
 
 ## Connect With Me 
 
+
 📧 Email: [christianjccahilig@gmail.com](mailto:christianjccahilig@gmail.com) 
+
 🌐 Portfolio: https://christianj-cc.github.io 
+
 💻 Messenger: https://github.com/christianj-cc](https://www.facebook.com/christianjames.cahilig 
+
 📍 Davao City, Philippines
+
 
 ---
 
