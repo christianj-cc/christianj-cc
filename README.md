@@ -68,13 +68,7 @@ Building practical software solutions, exploring machine learning, and continuou
 
 ### Leo Revita Management System
 
-Laravel-based Hair Salon Management System featuring:
-
-* Appointment Scheduling
-* Customer Management
-* Inventory Tracking
-* Employee Management
-* Sales Reporting
+Laravel-based Hair Salon Management System featuring appointment scheduling, customer management, inventory tracking, employee management, sales reporting,and audit logs.
 
 **Stack:** Laravel • PHP • MySQL • JavaScript
 
@@ -85,14 +79,6 @@ Laravel-based Hair Salon Management System featuring:
 Machine learning-powered phishing detection application utilizing separate Email and SMS pipelines with traditional ML and XGBoost models.
 
 **Stack:** Python • Scikit-Learn • XGBoost • Pandas
-
----
-
-### IrisHR
-
-Human Resource Management System with employee management, payroll functionality, attendance tracking, and security enhancements.
-
-**Stack:** PHP • MySQL • JavaScript
 
 ---
 
@@ -149,6 +135,13 @@ Besides software development, I also work on graphic design and digital art proj
 **Davao City, Philippines 🇵🇭**
 
 </div>
+
+## Connect With Me 
+
+📧 Email: [christianjccahilig@gmail.com](mailto:christianjccahilig@gmail.com) 
+🌐 Portfolio: https://christianj-cc.github.io 
+💻 Messenger: https://github.com/christianj-cc](https://www.facebook.com/christianjames.cahilig 
+📍 Davao City, Philippines
 
 ---
 
