@@ -8,7 +8,7 @@ I'm a Computer Science student and software developer with experience in web dev
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-b31a00?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)](https://christianj-cc.github.io)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-b31a00?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:christianjccahilig@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-christianj--cc-181717?style=for-the-badge\&logo=github)](https://www.facebook.com/christianjames.cahilig)
+[![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/christianjames.cahilig)
 
 </div>
 
@@ -74,20 +74,6 @@ I'm a Computer Science student and software developer with experience in web dev
 Besides software development, I also work on graphic design and digital art projects. I enjoy combining creativity with technology and designing experiences that are both functional and visually engaging.
 
 🎨 Design Portfolio: https://artnodes.wixsite.com/christiancahilig
-
----
-
-## Connect With Me 
-
-
-📧 Email: [christianjccahilig@gmail.com](mailto:christianjccahilig@gmail.com) 
-
-🌐 Portfolio: https://christianj-cc.github.io 
-
-💻 Messenger: https://github.com/christianj-cc](https://www.facebook.com/christianjames.cahilig 
-
-📍 Davao City, Philippines
-
 
 ---
 
